@@ -1,6 +1,6 @@
 # color-palette-generator
 
-<img src="https://github.com/worksofgenius/color-palette-generator/blob/master/color-palette-generator-screenshot.png" height="50%" width="50%">
+<img src="https://github.com/worksofgenius/color-palette-generator/color-palette-generator-screenshot.png" height="50%" width="50%">
 
 ## Table of contents
 * [General info](#general-info)
